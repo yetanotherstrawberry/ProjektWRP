@@ -112,7 +112,7 @@ namespace ProjektWRP
         private void Licencje(object sender, RoutedEventArgs e)
         {
 
-            MessageBox.Show(Properties.Resources.LICENSE, "Licencje pakietów trzecich i programu");
+            MessageBox.Show("Microsoft Automatic Graph Layout,MSAGL\n\nCopyright(c) Microsoft Corporation\n\nAll rights reserved.\n\nMIT License\n\nSymulator zakażenia sieci komputerowej - węzły Markova\n\n" + Properties.Resources.LICENSE, "Licencje pakietów trzecich i programu");
 
         }
 
